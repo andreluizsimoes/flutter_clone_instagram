@@ -1,0 +1,38 @@
+[
+    {
+        "urlImage": "https://www.cheatsheet.com/wp-content/uploads/2020/05/Evan-Peters-American-Horror-Story.jpg",
+        "nome": "Seu story",
+        "aoVivo": false,
+        "favorito": true
+    },
+    {
+        "urlImage": "https://img.freepik.com/fotos-premium/dancarina-de-bale-profissional-pulando-com-tecido-vermelho-no-sol-do-sol_141438-912.jpg",
+        "nome": "biazinha",
+        "aoVivo": true,
+        "favorito": false
+    },
+    {
+        "urlImage": "https://noticiasdatv.uol.com.br/media/uploads/artigos/instagram-caetano-veloso-reproducao-10-1.jpg",
+        "nome": "senhor_lerminho",
+        "aoVivo": false,
+        "favorito": false
+    },
+    {
+        "urlImage": "https://static.wikia.nocookie.net/thehangover/images/f/fc/Leslie_Chow.jpeg",
+        "nome": "chinao",
+        "aoVivo": false,
+        "favorito": false
+    },
+    {
+        "urlImage": "https://br.web.img3.acsta.net/pictures/18/08/01/20/13/3535250.jpg",
+        "nome": "urixim",
+        "aoVivo": false,
+        "favorito": false
+    },
+    {
+        "urlImage": "https://i0.wp.com/sitebarra.com.br/wp-content/uploads/2019/02/f38ccd20-2969-0136-387b-6231c35b6685-minified.jpg",
+        "nome": "peucha",
+        "aoVivo": false,
+        "favorito": false
+    }
+]
